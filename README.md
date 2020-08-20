@@ -61,5 +61,19 @@ The rest API will be available at:
 
     http://localhost:8098
     
-## PostMan ScreenShots
+## PostMan ScreenShots For Some Endpoints
+
+<img src="/images/game1.PNG" height=200>           <img src="/images/game.PNG" height=200>
+
+<img src="/images/game3.PNG" height=200>           <img src="/images/dealcard.PNG" height=200>
+
+<img src="/images/listofplayers.PNG" height=200>   <img src="/images/listsuitcount.PNG" height=200>
+
+<img src="/images/undealtsort.PNG" height=300>
+
+
+
+
+
+
 
